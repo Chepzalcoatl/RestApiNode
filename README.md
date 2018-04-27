@@ -1,2 +1,2 @@
 # RestApiNode
-This is an example of an REST Api with Express and Node
+This is an example of an REST Api with NODE, Express and MongoDB
